@@ -44,7 +44,7 @@ This project transforms socio-economic data from Maharashtra's districts into tr
 3. Connect them to the correct ``'select'`` nodes. (see the images below)
 4. Viola, you just grew a district as a tree-form !
 
-<img src="imgs/norm.png" width=36% alt="for normalised dataset">       <img src="imgs/norm_disp.png" width=36% alt="for normalised_Disp dataset">
+<img src="imgs/norm.png" width=36% alt="for normalised dataset">        <img src="imgs/normalised data_display.png" width=36% alt="for normalised_Disp dataset">
 
 <br>
 
